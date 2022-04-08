@@ -8,3 +8,4 @@ Non affiliato con Zucchetti Spa
  - Plugin
  - Manuale integrato
  - Nativamente funziona con server Linux/systemd/bash e si può [patchare per un server Windows con questa patch](https://gitlab.alegsoftware.ga/alegsoftware/atowinpatch)
+### Il progetto è stato deprecato. Sto lavorando al successore.
